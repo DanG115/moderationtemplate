@@ -1,8 +1,8 @@
 ![Voltage Logo](https://github-images.dang116.repl.co/voltage_Bot_23.png)
 
-# Voltage-Bot-23 - Slash command update
-Voltage is running on the library [discord.py](https://discordpy.readthedocs.io/en/stable/)
-You can visit its dashboard with the link below. 
+# Template 1 - Moderation Discord Bot
+This template will run on [discord.py](https://discordpy.readthedocs.io/en/stable/)
+You can visit all of my templates with the link below...
 All the code saved to this repo has been updated and will work with these packages installed:
 
 
@@ -22,7 +22,6 @@ All the code saved to this repo has been updated and will work with these packag
 - Find
 
 # Dashboard
-🔗 [Click Here](https://voltage.dang1114.repl.co/)
-🔗 [Invite](https://discord.com/oauth2/authorize?client_id=919233281235509268&permissions=10000931089606&scope=bot)
+🔗 [Click Here](https://templates.dan-gleeson.co.uk)
 
 #  Slash Commands Supported 
